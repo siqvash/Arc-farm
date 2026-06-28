@@ -26,3 +26,13 @@ Requirements:
 4. Submit your application
 
 If your profile and contributions stand out, you could become one of the next ARC Architects.
+Why apply?
+
+🔥 Exclusive community role 
+🎁 Potential future ecosystem benefits 
+🌟 Recognition within the ARC community 
+🚀 Better positioning for future opportunities
+
+Don't wait until everyone else applies.
+
+If you've already crossed 500+ House Points, submit your application today.
