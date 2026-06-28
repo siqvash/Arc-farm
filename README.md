@@ -1,2 +1,11 @@
 # Arc-farm
-Base MCP connects AI agents to the Base blockchain. It lets your AI (like Claude or Cursor) do real onchain actions using simple words.  The latest update added 13 projects as skills. Now agents can swap tokens, buy NFTs, launch coins, earn yield, and more — all from chat. You review and sign every transaction in your own wallet
+
+You're leaving rewards on the table if you haven't applied for the Architect Program yet.
+
+Don't just collect points. Unlock bigger opportunities.
+
+Here's how to apply 👇
+
+🏗️ ARC Architect Program
+
+The Architect role is for active community members who consistently contribute and help grow the ARC ecosystem.
